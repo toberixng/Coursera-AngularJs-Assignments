@@ -1,0 +1,2 @@
+# Don't add Bower packages to repository
+bower_components/
